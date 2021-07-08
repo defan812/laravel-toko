@@ -7,6 +7,24 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## env Laravel-toko
+<p>
+APP_NAME=Laravel </br>
+APP_ENV=local </br>
+APP_KEY=base64:Ha0n9nYL3tqkn3zT506DPEF0yhe2c5KomkqBNEZrh8A= </br>
+APP_DEBUG=true </br>
+APP_URL=http://localhost:8000 </br></br>
+
+LOG_CHANNEL=stack </br></br> 
+
+DB_CONNECTION=mysql </br>
+DB_HOST=127.0.0.1 </br>
+DB_PORT=3306 </br>
+DB_DATABASE=laravel-toko </br>
+DB_USERNAME=root </br>
+DB_PASSWORD= </br>
+</p>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
