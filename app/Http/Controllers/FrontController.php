@@ -14,6 +14,7 @@ class FrontController extends Controller
         return view('front', [
             "tittle" => "Home",
             "products" => Product::take(4)->get(),
+            "all_products" => Product::all(),
             "ligas"    => Liga::all()
         ]);
 
